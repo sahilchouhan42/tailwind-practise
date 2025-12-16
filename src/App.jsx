@@ -8,13 +8,14 @@ import Day6 from './components/Day6'
 import Day7 from './components/Day7'
 import Day8 from './components/Day8'
 import Day9 from './components/Day9'
+import Website from './websitecomponents/Website'
 
 function App() {
   
 
   return (
     <>
-      <h1>Tailwind Practise</h1>
+      {/* <h1>Tailwind Practise</h1> */}
       {/* <Day1 /> */}
       {/* <Day2 /> */}
       {/* <Day3 /> */}
@@ -23,7 +24,8 @@ function App() {
       {/* <Day6 /> */}
       {/* <Day7 /> */}
       {/* <Day8 /> */}
-      <Day9 />
+      {/* <Day9 /> */}
+      <Website />
     </>
   )
 }
