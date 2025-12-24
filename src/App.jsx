@@ -9,6 +9,7 @@ import Day7 from './components/Day7'
 import Day8 from './components/Day8'
 import Day9 from './components/Day9'
 import Website from './websitecomponents/Website'
+import Day10 from './components/Day10'
 
 function App() {
   
@@ -25,7 +26,8 @@ function App() {
       {/* <Day7 /> */}
       {/* <Day8 /> */}
       {/* <Day9 /> */}
-      <Website />
+      {/* <Website /> */}
+      <Day10 />
     </>
   )
 }
